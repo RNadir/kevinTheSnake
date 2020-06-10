@@ -1,0 +1,23 @@
+body{
+    background-image: url(./durant.jpg);
+    background-repeat: no-repeat;
+}
+#Podloga{
+    border: 1px solid;
+    background-color: #FFC72C;
+}
+.canvas{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#naslov{
+    text-align: center;
+}
+.sve{
+    margin-top: 10em;
+}
+.dugme{
+   text-align: center;
+   margin-top: 1em;
+}
